@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStoreAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BookStoreAPI.Controllers.HomeController.Get">
+            <summary>
+            Get All
+            </summary>
+            <returns>All books</returns>
+        </member>
+    </members>
+</doc>
