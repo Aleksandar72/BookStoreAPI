@@ -4,6 +4,44 @@
         <name>BookStoreAPI</name>
     </assembly>
     <members>
+        <member name="T:BookStoreAPI.Controllers.AuthorsController">
+            <summary>
+            Endpoint for book store's API
+            </summary>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.AuthorsController.GetAuthors">
+            <summary>
+            Get all authors without filtering
+            </summary>
+            <returns>List of authors in the system</returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.AuthorsController.GetAuthor(System.Int32)">
+            <summary>
+            Get author by id
+            </summary>
+            <returns>Autor filtered by Id</returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.AuthorsController.Create(BookStoreAPI.DTOs.CreateAuthorDTO)">
+            <summary>
+            Create new entity of Author
+            </summary>
+            <param name="createAuthorDTO">FirstName,LastName,Bio</param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.AuthorsController.Update(System.Int32,BookStoreAPI.DTOs.UpdateAuthorDTO)">
+            <summary>
+            Update  entity of Author
+            </summary>
+            <param name="author"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.AuthorsController.Delete(System.Int32)">
+             <summary>
+            Delete  entity of Author
+             </summary>
+             <param name="author"></param>
+             <returns></returns>
+        </member>
         <member name="M:BookStoreAPI.Controllers.HomeController.Get">
             <summary>
             Get All

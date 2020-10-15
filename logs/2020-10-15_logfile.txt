@@ -1,0 +1,9 @@
+2020-10-15 09:21:24.7245 INFO Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStoreAPI.Data.Author - 
+2020-10-15 10:03:51.0212 INFO Try to get all authors
+2020-10-15 10:03:51.2940 INFO Success to get all authors
+2020-10-15 10:04:03.7719 INFO Try to get author
+2020-10-15 10:04:03.9105 INFO Success to author

@@ -17,6 +17,8 @@ using System.Reflection;
 using System.IO;
 using BookStoreAPI.Contract;
 using BookStoreAPI.Services;
+using AutoMapper;
+using BookStoreAPI.Mapping;
 
 namespace BookStoreAPI
 {
@@ -57,8 +59,11 @@ namespace BookStoreAPI
                 c.IncludeXmlComments(xpath);
             });
 
+            services.AddAutoMapper(typeof(Maps));
 
             services.AddSingleton<IloggerService, LoggerService>();
+            services.AddScoped<IAuthorRepository, AuthorRepository>();
+            services.AddScoped<IBookRepository, BookRepository>();
 
             services.AddControllers();
         }
@@ -88,6 +93,8 @@ namespace BookStoreAPI
             });
 
             app.UseRouting();
+
+            
 
             app.UseCors("CorsPolicy");
 
