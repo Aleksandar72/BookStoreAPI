@@ -42,6 +42,44 @@
              <param name="author"></param>
              <returns></returns>
         </member>
+        <member name="T:BookStoreAPI.Controllers.BooksController">
+            <summary>
+            Endpoint for book store's API
+            </summary>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BooksController.GetBooks">
+            <summary>
+            Get all books without filtering
+            </summary>
+            <returns>List of authors in the system</returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BooksController.GetBook(System.Int32)">
+            <summary>
+            Get book
+            </summary>
+            <returns>List of authors in the system</returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BooksController.Create(BookStoreAPI.DTOs.CreateBookDTO)">
+            <summary>
+            Create new entity of Book
+            </summary>
+            <param name="Book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BooksController.Update(System.Int32,BookStoreAPI.DTOs.UpdateBookDTO)">
+            <summary>
+            Update  entity of Book
+            </summary>
+            <param name="book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BooksController.Delete(System.Int32)">
+             <summary>
+            Delete  entity of Book
+             </summary>
+             <param name="book"></param>
+             <returns></returns>
+        </member>
         <member name="M:BookStoreAPI.Controllers.HomeController.Get">
             <summary>
             Get All
