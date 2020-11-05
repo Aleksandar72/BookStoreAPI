@@ -21,7 +21,7 @@ namespace BookStoreAPI.Data
             {
                 var user = new IdentityUser
                 {
-                    UserName = "admin",
+                    UserName = "admin@admin.com",
                     Email = "admin@admin.com"
                 };
                 var res = await userManager.CreateAsync(user, "Pasword-1");
@@ -31,12 +31,12 @@ namespace BookStoreAPI.Data
                 }
 
             }
-            if (await userManager.FindByEmailAsync("customer@customer.com") == null)
+            if (await userManager.FindByEmailAsync("customer1@customer.com") == null)
             {
                 var user = new IdentityUser
                 {
-                    UserName = "customer1",
-                    Email = "customer@customer.com"
+                    UserName = "customer1@customer.com",
+                    Email = "customer1@customer.com"
                 };
                 var res = await userManager.CreateAsync(user, "Pasword-1");
                 if (res.Succeeded)
@@ -45,12 +45,12 @@ namespace BookStoreAPI.Data
                 }
 
             }
-            if (await userManager.FindByEmailAsync("customer1@customer.com") == null)
+            if (await userManager.FindByEmailAsync("customer2@customer.com") == null)
             {
                 var user = new IdentityUser
                 {
-                    UserName = "customer2",
-                    Email = "customer1@customer.com"
+                    UserName = "customer2@customer.com",
+                    Email = "customer2@customer.com"
                 };
                 var res = await userManager.CreateAsync(user, "Pasword-1");
                 if (res.Succeeded)

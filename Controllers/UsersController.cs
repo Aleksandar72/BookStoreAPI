@@ -29,17 +29,48 @@ namespace BookStoreAPI.Controllers
             _config = config;
         }
         /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="userDTO"></param>
+        /// <returns></returns>
+        [Route("register")]
+        [AllowAnonymous]
+        [HttpPost]
+        public async Task<IActionResult> Register([FromBody] UserDTO userDTO)
+        {
+            try
+            {
+                var username = userDTO.EmailAddress;
+                var pass = userDTO.Password;
+                var user = new IdentityUser { Email = username, UserName = username };
+                var result = await _userManager.CreateAsync(user, pass);
+
+                if (!result.Succeeded)
+                {
+                    return StatusCode(500, "Something goes wrong");
+                }
+                await _userManager.AddToRoleAsync(user, "Customer");
+                return Created("login",new { result.Succeeded });
+            }
+            catch (Exception)
+            {
+
+                return StatusCode(500, "Something goes wrong");
+            }
+        }
+        /// <summary>
         /// User Login EndPoint
         /// </summary>
         /// <param name="userDTO"></param>
         /// <returns></returns>
+        [Route("login")]
         [AllowAnonymous]
         [HttpPost]
         public async Task<IActionResult> Login([FromBody] UserDTO userDTO)
         {
             try
             {
-                var username = userDTO.UserName;
+                var username = userDTO.EmailAddress;
                 var pass = userDTO.Password;
                 var result = await _signInManager.PasswordSignInAsync(username, pass, false, false);
                 

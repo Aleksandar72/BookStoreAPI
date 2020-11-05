@@ -86,6 +86,13 @@
             </summary>
             <returns>All books</returns>
         </member>
+        <member name="M:BookStoreAPI.Controllers.UsersController.Register(BookStoreAPI.DTOs.UserDTO)">
+            <summary>
+            
+            </summary>
+            <param name="userDTO"></param>
+            <returns></returns>
+        </member>
         <member name="M:BookStoreAPI.Controllers.UsersController.Login(BookStoreAPI.DTOs.UserDTO)">
             <summary>
             User Login EndPoint
