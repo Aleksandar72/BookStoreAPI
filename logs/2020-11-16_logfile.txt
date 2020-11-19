@@ -1,0 +1,10 @@
+2020-11-16 11:18:46.1308 INFO Books - GetBooks: Try to get all books
+2020-11-16 11:18:46.2517 INFO Books - GetBooks:Success to get all books
+2020-11-16 11:20:30.1005 INFO Books - GetBooks: Try to get all books
+2020-11-16 11:20:30.2932 INFO Books - GetBooks:Success to get all books
+2020-11-16 11:21:11.0137 INFO Books - GetBooks: Try to get all books
+2020-11-16 11:21:11.0380 INFO Books - GetBooks:Success to get all books
+2020-11-16 11:21:43.3696 INFO Books - GetBooks: Try to get all books
+2020-11-16 11:21:43.3962 INFO Books - GetBooks:Success to get all books
+2020-11-16 11:22:04.4299 INFO Books - GetBooks: Try to get all books
+2020-11-16 11:22:04.6177 INFO Books - GetBooks:Success to get all books
