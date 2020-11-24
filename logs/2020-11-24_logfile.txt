@@ -1,0 +1,155 @@
+2020-11-24 10:13:20.0257 INFO Try to get all authors
+2020-11-24 10:13:20.2126 INFO Success to get all authors
+2020-11-24 10:13:26.9968 INFO Try to get author
+2020-11-24 10:13:27.0518 INFO Success to author
+2020-11-24 10:13:29.0261 INFO Try to get all authors
+2020-11-24 10:13:29.0261 INFO Success to get all authors
+2020-11-24 10:13:33.9565 INFO Try to get author
+2020-11-24 10:13:33.9713 INFO Success to author
+2020-11-24 10:13:34.9774 INFO Try to get all authors
+2020-11-24 10:13:34.9894 INFO Success to get all authors
+2020-11-24 10:13:36.0303 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:13:36.0651 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:13:48.0036 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:13:48.1049 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:14:26.3775 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:14:26.4003 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:14:31.9512 INFO Try to get all authors
+2020-11-24 10:14:31.9741 INFO Success to get all authors
+2020-11-24 10:14:34.8841 INFO Try to get author
+2020-11-24 10:14:34.9029 INFO Success to author
+2020-11-24 10:14:39.1392 INFO Try to get all authors
+2020-11-24 10:14:39.1601 INFO Success to get all authors
+2020-11-24 10:14:40.5701 INFO Try to get author
+2020-11-24 10:14:40.5839 INFO Success to author
+2020-11-24 10:14:47.7620 INFO Try to get all authors
+2020-11-24 10:14:47.7793 INFO Success to get all authors
+2020-11-24 10:14:53.5407 INFO Try to get author
+2020-11-24 10:14:53.5583 INFO Success to author
+2020-11-24 10:15:04.9779 INFO Try to get all authors
+2020-11-24 10:15:04.9779 INFO Success to get all authors
+2020-11-24 10:15:10.9464 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:15:10.9693 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:15:12.6185 INFO Try to get all authors
+2020-11-24 10:15:12.6344 INFO Success to get all authors
+2020-11-24 10:15:20.6754 INFO Try to get author
+2020-11-24 10:15:20.6933 INFO Success to author
+2020-11-24 10:15:22.8009 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:15:22.8159 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:15:24.3428 INFO Books - GetBook: Try to get book
+2020-11-24 10:15:24.3680 INFO Books - GetBook:Success to book
+2020-11-24 10:15:29.0400 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:15:29.0548 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:24:12.9503 INFO Try to get all authors
+2020-11-24 10:24:13.1745 INFO Success to get all authors
+2020-11-24 10:24:16.5316 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:24:16.5883 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:24:18.6638 INFO Books - GetBook: Try to get book
+2020-11-24 10:24:18.6931 INFO Books - GetBook:Success to book
+2020-11-24 10:24:19.9861 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:24:20.0015 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:24:34.9212 INFO Books - GetBook: Try to get book
+2020-11-24 10:24:34.9410 INFO Books - GetBook:Success to book
+2020-11-24 10:24:40.1288 INFO Books - GetBooks: Try to get all books
+2020-11-24 10:24:40.1470 INFO Books - GetBooks:Success to get all books
+2020-11-24 10:26:33.7647 INFO Try to get all authors
+2020-11-24 10:26:33.8100 INFO Success to get all authors
+2020-11-24 10:26:51.5827 INFO Try to get all authors
+2020-11-24 10:26:51.6208 INFO Success to get all authors
+2020-11-24 12:07:16.8718 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:07:17.2213 INFO Books - GetBooks: Invalid column name 'File'. - 
+2020-11-24 12:07:23.7896 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:07:24.0090 INFO Books - GetBooks: Invalid column name 'File'. - 
+2020-11-24 12:07:35.1683 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:07:35.3037 INFO Books - GetBooks: Invalid column name 'File'. - 
+2020-11-24 12:11:06.6569 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:11:06.9559 INFO Books - GetBooks: Invalid column name 'File'. - 
+2020-11-24 12:12:29.6086 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:14:51.6702 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:14:51.8965 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:14:57.4818 INFO Try to get all authors
+2020-11-24 12:14:57.5535 INFO Success to get all authors
+2020-11-24 12:15:26.0970 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:15:26.1128 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:33:40.0309 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:33:40.2521 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:33:45.3035 INFO Books - GetBook: Try to get book
+2020-11-24 12:33:45.3430 INFO Books - GetBook:Success to book
+2020-11-24 12:33:47.2475 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:33:47.2646 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:33:48.2400 INFO Books - GetBook: Try to get book
+2020-11-24 12:33:48.2557 INFO Books - GetBook:Success to book
+2020-11-24 12:33:49.2381 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:33:49.2543 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:33:50.0546 INFO Books - GetBook: Try to get book
+2020-11-24 12:33:50.0711 INFO Books - GetBook:Success to book
+2020-11-24 12:33:50.9756 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:33:50.9927 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:33:51.7910 INFO Books - GetBook: Try to get book
+2020-11-24 12:33:51.8054 INFO Books - GetBook:Success to book
+2020-11-24 12:34:49.5516 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:35:18.5366 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:35:44.9702 INFO Books - GetBook: Try to get book
+2020-11-24 12:36:09.5533 INFO Books - GetBook:Success to book
+2020-11-24 12:39:14.5327 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:39:14.7396 INFO Books - GetBooks:Success to get all books
+2020-11-24 12:39:18.3022 INFO Books - GetBook: Try to get book
+2020-11-24 12:39:18.3470 INFO Books - GetBook:Success to book
+2020-11-24 12:39:27.2647 INFO Books - GetBooks: Try to get all books
+2020-11-24 12:39:27.2856 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:13:07.0600 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:13:07.2665 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:13:12.9675 INFO Books - GetBook: Try to get book
+2020-11-24 13:13:13.0097 INFO Books - GetBook:Success to book
+2020-11-24 13:13:13.0838 INFO Try to get all authors
+2020-11-24 13:13:13.1334 INFO Success to get all authors
+2020-11-24 13:13:44.7243 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:13:44.7421 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:13:57.4784 INFO Books - GetBook: Try to get book
+2020-11-24 13:13:57.5116 INFO Books - GetBook:Success to book
+2020-11-24 13:14:03.9414 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:14:04.0161 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:14:17.0523 INFO Books - GetBook: Try to get book
+2020-11-24 13:14:17.0731 INFO Books - GetBook:Success to book
+2020-11-24 13:19:22.5287 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:19:22.5570 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:19:24.6378 INFO Books - GetBook: Try to get book
+2020-11-24 13:19:24.6551 INFO Books - GetBook:Success to book
+2020-11-24 13:19:24.6910 INFO Try to get all authors
+2020-11-24 13:19:24.7061 INFO Success to get all authors
+2020-11-24 13:22:58.1777 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:22:58.2532 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:23:02.6928 INFO Books - GetBook: Try to get book
+2020-11-24 13:23:02.7311 INFO Books - GetBook:Success to book
+2020-11-24 13:23:10.6736 INFO Try to get all authors
+2020-11-24 13:23:10.7000 INFO Success to get all authors
+2020-11-24 13:41:50.0756 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:41:50.2803 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:42:27.9657 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:42:28.0483 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:43:53.2078 INFO Books - GetBook: Try to get book
+2020-11-24 13:43:53.2712 INFO Books - GetBook:Success to book
+2020-11-24 13:44:05.5747 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:44:05.6042 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:44:21.3219 INFO Books - GetBook: Try to get book
+2020-11-24 13:44:21.3554 INFO Books - GetBook:Success to book
+2020-11-24 13:44:29.4025 INFO Try to get all authors
+2020-11-24 13:44:29.4611 INFO Success to get all authors
+2020-11-24 13:44:38.2003 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:44:38.2147 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:46:09.8413 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:46:10.0355 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:47:58.7791 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:47:58.9700 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:49:16.9510 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:49:17.1541 INFO Books - GetBooks:Success to get all books
+2020-11-24 13:51:47.9189 INFO Books - GetBooks: Try to get all books
+2020-11-24 13:51:48.1314 INFO Books - GetBooks:Success to get all books
+2020-11-24 14:07:43.7636 INFO Books - GetBooks: Try to get all books
+2020-11-24 14:07:43.9584 INFO Books - GetBooks:Success to get all books
+2020-11-24 14:09:25.0270 INFO Books - GetBooks: Try to get all books
+2020-11-24 14:09:25.2343 INFO Books - GetBooks:Success to get all books
+2020-11-24 14:09:42.4540 INFO Try to get all authors
+2020-11-24 14:09:42.5422 INFO Success to get all authors
+2020-11-24 14:09:49.1535 INFO Books - GetBooks: Try to get all books
+2020-11-24 14:09:49.1730 INFO Books - GetBooks:Success to get all books

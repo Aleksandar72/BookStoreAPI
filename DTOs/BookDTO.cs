@@ -16,6 +16,7 @@ namespace BookStoreAPI.DTOs
         public string Isbn { get; set; }
         public string Summary { get; set; }
         public string Image { get; set; }
+        public string File { get; set; }
         public decimal? Price { get; set; }
     }
     public class CreateBookDTO
@@ -29,6 +30,7 @@ namespace BookStoreAPI.DTOs
         [StringLength(500)]
         public string Summary { get; set; }
         public string Image { get; set; }
+        public string File { get; set; }
         public decimal? Price { get; set; }
     }
     public class UpdateBookDTO
@@ -45,6 +47,7 @@ namespace BookStoreAPI.DTOs
         [StringLength(500)]
         public string Summary { get; set; }
         public string Image { get; set; }
+        public string File { get; set; }
         public decimal? Price { get; set; }
     }
 }

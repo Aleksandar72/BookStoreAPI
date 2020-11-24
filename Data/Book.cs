@@ -13,6 +13,7 @@ namespace BookStoreAPI.Data
         public string Isbn { get; set; }
         public string Summary { get; set; }
         public string Image { get; set; }
+       // public string File { get; set; }
         public decimal? Price { get; set; }
        
     }
